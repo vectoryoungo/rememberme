@@ -8,6 +8,7 @@ public class PermernantApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PermernantApplication.class, args);
+		//test
 	}
 
 }
